@@ -1,0 +1,13 @@
+.cache
+.vscode
+*.py[co]
+.pytest_cache
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.DS_Store
+\#*#
+.#*
+
